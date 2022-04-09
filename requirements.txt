@@ -1,0 +1,8 @@
+matplotlib==3.3.4
+numpy==1.20.1
+pandas==1.2.4
+plotly==5.3.1
+streamlit==1.8.0
+tensorflow==2.8.0
+wordcloud==1.8.1
+click==7.1.2
